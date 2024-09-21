@@ -47,13 +47,13 @@ global.chatgpt = true // false = off, true = on
 global.saluran = 'https://whatsapp.com/channel/0029ValRq0ULikgDaQ5Y0c0L' // Opsional 
 global.idsal = "@newsletter" // Jangan Di ubah
 global.botname = 'Zʏɴxᴢᴏ' // Ini nama bot
-global.bottz = '6285789034010' // Ganti dengan nomor bot untuk mendapatkan code pairing 
-global.packname = '6285789034010' // wm sticker
+global.bottz = '22799229598' // Ganti dengan nomor bot untuk mendapatkan code pairing 
+global.packname = '22799229598' // wm sticker
 global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nCreator: Zʏɴxᴢᴏ \nBot: 0857-8903-4010` // wm sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.versions = `${zynz}`
-global.ownername = 'Zʏɴxᴢᴏ' // Ubah jadi nama lu
-global.owner = ['6285789034010'] // Jangan ubah no lu
+global.ownername = 'kaijucha' // Ubah jadi nama lu
+global.owner = ['22799229598'] // Jangan ubah no lu
 global.ownermail = ['ZynxzXx99@gmail.com'] // Opsional
 
 //—————「 REPLY 」—————//
