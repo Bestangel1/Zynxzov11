@@ -47,7 +47,7 @@ global.chatgpt = true // false = off, true = on
 global.saluran = 'https://whatsapp.com/channel/0029ValRq0ULikgDaQ5Y0c0L' // Opsional 
 global.idsal = "@newsletter" // Jangan Di ubah
 global.botname = 'Zʏɴxᴢᴏ' // Ini nama bot
-global.bottz = '22799229598' // Ganti dengan nomor bot untuk mendapatkan code pairing 
+global.bottz = 22799229598' // Ganti dengan nomor bot untuk mendapatkan code pairing 
 global.packname = '22799229598' // wm sticker
 global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nCreator: Zʏɴxᴢᴏ \nBot: 0857-8903-4010` // wm sticker
 global.prefa = ['','!','.',',','🐤','🗿']
